@@ -1,7 +1,7 @@
 # Terrorism Predictor
 
 
-There are three different files doing various functionalities:
+There are two different files doing various functionalities:
 1)show_notebook(in).ipynb presents the analysis of terrorism based on cities and location and various weapons used.
 It also presents yearly analysis on the terrorism
 
